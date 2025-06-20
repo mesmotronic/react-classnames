@@ -1,0 +1,34 @@
+{
+  "name": "@mesmotronic/react-classnames",
+  "version": "1.0.0",
+  "description": "Easy way to concatenate CSS class names in your React (or any other web) apps",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesmotronic/react-classnames.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "classname",
+    "classnames",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Neil Rackett",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mesmotronic/react-classnames/issues"
+  },
+  "homepage": "https://github.com/mesmotronic/react-classnames#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
