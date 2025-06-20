@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Easy way to concatenate CSS class names in your React (or any other web) apps",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib"
   },
+  "files": [
+    "lib",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,5 +35,8 @@
   "homepage": "https://github.com/mesmotronic/react-classnames#readme",
   "devDependencies": {
     "typescript": "^5.8.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
