@@ -1,6 +1,6 @@
 # classNames
 
-Easy way to concatenate CSS class names in your React (or any other web) apps
+Easy way to concatenate CSS class names in your web apps
 
 ## Usage examples
 
